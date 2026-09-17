@@ -9,12 +9,13 @@ Automated problem solving repository and day-to-day coding tracks powered by [SE
 ### 💻 Languages Breakdown
 
 - **C**: 1 solution
+- **JAVA**: 1 solution
 
 ## 📅 Recent Activity (Day-to-Day Solving Log)
 
 | Date | Problem | Category | Difficulty | Languages | Folder |
 | :--- | :--- | :--- | :---: | :---: | :---: |
-| 2026-09-17 | [Q0.143 - Basic_Level_0_Arrays_1](./Problems/general/q0-143-basic-level-0-arrays-1) | General | `Medium` | c | [View](./Problems/general/q0-143-basic-level-0-arrays-1) |
+| 2026-09-17 | [Q0.143 - Basic_Level_0_Arrays_1](./Problems/general/q0-143-basic-level-0-arrays-1) | General | `Medium` | c, java | [View](./Problems/general/q0-143-basic-level-0-arrays-1) |
 
 ## 📂 Problem Index by Topic
 
