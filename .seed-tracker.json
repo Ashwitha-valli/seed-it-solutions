@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "lastSynced": "2026-09-17T16:37:27.391Z",
+  "problems": {
+    "Q0.143": {
+      "questionId": "Q0.143",
+      "title": "Basic_Level_0_Arrays_1",
+      "category": "General",
+      "difficulty": "Medium",
+      "folderPath": "Problems/general/q0-143-basic-level-0-arrays-1",
+      "languages": [
+        "c"
+      ],
+      "lastSolvedAt": "2026-09-17T16:37:27.391Z"
+    }
+  }
+}
