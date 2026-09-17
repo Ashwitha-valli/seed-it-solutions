@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastSynced": "2026-09-17T16:42:49.922Z",
+  "lastSynced": "2026-09-17T17:01:37.300Z",
   "problems": {
     "Q0.143": {
       "questionId": "Q0.143",
@@ -13,6 +13,17 @@
         "java"
       ],
       "lastSolvedAt": "2026-09-17T16:42:49.922Z"
+    },
+    "Q0.144": {
+      "questionId": "Q0.144",
+      "title": "Basic_Level_0_Arrays_2",
+      "category": "General",
+      "difficulty": "Medium",
+      "folderPath": "Problems/general/q0-144-basic-level-0-arrays-2",
+      "languages": [
+        "java"
+      ],
+      "lastSolvedAt": "2026-09-17T17:01:37.300Z"
     }
   }
 }
