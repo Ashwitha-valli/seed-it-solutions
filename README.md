@@ -4,17 +4,18 @@ Automated problem solving repository and day-to-day coding tracks powered by [SE
 
 ## 📊 Progress & Statistics
 
-![Total Solved](https://img.shields.io/badge/Solved-5%20Problems-blue?style=for-the-badge&logo=codeforces) ![Easy](https://img.shields.io/badge/Easy-0-brightgreen?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-5-orange?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Solved-6%20Problems-blue?style=for-the-badge&logo=codeforces) ![Easy](https://img.shields.io/badge/Easy-0-brightgreen?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-6-orange?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
 
 ### 💻 Languages Breakdown
 
-- **JAVA**: 5 solutions
+- **JAVA**: 6 solutions
 - **C**: 1 solution
 
 ## 📅 Recent Activity (Day-to-Day Solving Log)
 
 | Date | Problem | Category | Difficulty | Languages | Folder |
 | :--- | :--- | :--- | :---: | :---: | :---: |
+| 2026-09-23 | [Q0.151 - Basic_Level_0_Arrays_9](./Problems/general/q0-151-basic-level-0-arrays-9) | General | `Medium` | java | [View](./Problems/general/q0-151-basic-level-0-arrays-9) |
 | 2026-09-23 | [Q0.150 - Basic_Level_0_Arrays_8](./Problems/general/q0-150-basic-level-0-arrays-8) | General | `Medium` | java | [View](./Problems/general/q0-150-basic-level-0-arrays-8) |
 | 2026-09-23 | [Q0.149 - Basic_Level_0_Arrays_7](./Problems/general/q0-149-basic-level-0-arrays-7) | General | `Medium` | java | [View](./Problems/general/q0-149-basic-level-0-arrays-7) |
 | 2026-09-21 | [Q0.148 - Basic_Level_0_Arrays_6](./Problems/general/q0-148-basic-level-0-arrays-6) | General | `Medium` | java | [View](./Problems/general/q0-148-basic-level-0-arrays-6) |
@@ -24,8 +25,9 @@ Automated problem solving repository and day-to-day coding tracks powered by [SE
 ## 📂 Problem Index by Topic
 
 <details>
-<summary><b>📁 General (5 Problems)</b></summary>
+<summary><b>📁 General (6 Problems)</b></summary>
 
+- [Q0.151 - Basic_Level_0_Arrays_9](./Problems/general/q0-151-basic-level-0-arrays-9) — `Medium`
 - [Q0.150 - Basic_Level_0_Arrays_8](./Problems/general/q0-150-basic-level-0-arrays-8) — `Medium`
 - [Q0.149 - Basic_Level_0_Arrays_7](./Problems/general/q0-149-basic-level-0-arrays-7) — `Medium`
 - [Q0.148 - Basic_Level_0_Arrays_6](./Problems/general/q0-148-basic-level-0-arrays-6) — `Medium`
