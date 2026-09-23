@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastSynced": "2026-09-23T03:22:55.381Z",
+  "lastSynced": "2026-09-23T03:24:33.354Z",
   "problems": {
     "Q0.143": {
       "questionId": "Q0.143",
@@ -79,6 +79,17 @@
         "java"
       ],
       "lastSolvedAt": "2026-09-23T03:22:55.381Z"
+    },
+    "Q0.4": {
+      "questionId": "Q0.4",
+      "title": "Basic_level_0_Datatypes_4",
+      "category": "General",
+      "difficulty": "Medium",
+      "folderPath": "Problems/general/q0-4-basic-level-0-datatypes-4",
+      "languages": [
+        "java"
+      ],
+      "lastSolvedAt": "2026-09-23T03:24:33.354Z"
     }
   }
 }
