@@ -4,17 +4,18 @@ Automated problem solving repository and day-to-day coding tracks powered by [SE
 
 ## 📊 Progress & Statistics
 
-![Total Solved](https://img.shields.io/badge/Solved-22%20Problems-blue?style=for-the-badge&logo=codeforces) ![Easy](https://img.shields.io/badge/Easy-0-brightgreen?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-22-orange?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
+![Total Solved](https://img.shields.io/badge/Solved-23%20Problems-blue?style=for-the-badge&logo=codeforces) ![Easy](https://img.shields.io/badge/Easy-0-brightgreen?style=for-the-badge) ![Medium](https://img.shields.io/badge/Medium-23-orange?style=for-the-badge) ![Hard](https://img.shields.io/badge/Hard-0-red?style=for-the-badge)
 
 ### 💻 Languages Breakdown
 
-- **JAVA**: 22 solutions
+- **JAVA**: 23 solutions
 - **C**: 1 solution
 
 ## 📅 Recent Activity (Day-to-Day Solving Log)
 
 | Date | Problem | Category | Difficulty | Languages | Folder |
 | :--- | :--- | :--- | :---: | :---: | :---: |
+| 2026-09-28 | [Q0.20 - Basic_level_0_Datatypes_20](./Problems/general/q0-20-basic-level-0-datatypes-20) | General | `Medium` | java | [View](./Problems/general/q0-20-basic-level-0-datatypes-20) |
 | 2026-09-25 | [Q0.16 - Basic_level_0_Datatypes_16](./Problems/general/q0-16-basic-level-0-datatypes-16) | General | `Medium` | java | [View](./Problems/general/q0-16-basic-level-0-datatypes-16) |
 | 2026-09-24 | [Q0.212 - Basic_Level_0_Arrays_11](./Problems/general/q0-212-basic-level-0-arrays-11) | General | `Medium` | java | [View](./Problems/general/q0-212-basic-level-0-arrays-11) |
 | 2026-09-24 | [Q0.15 - Basic_level_0_Datatypes_15](./Problems/general/q0-15-basic-level-0-datatypes-15) | General | `Medium` | java | [View](./Problems/general/q0-15-basic-level-0-datatypes-15) |
@@ -34,13 +35,13 @@ Automated problem solving repository and day-to-day coding tracks powered by [SE
 | 2026-09-23 | [Q0.151 - Basic_Level_0_Arrays_9](./Problems/general/q0-151-basic-level-0-arrays-9) | General | `Medium` | java | [View](./Problems/general/q0-151-basic-level-0-arrays-9) |
 | 2026-09-23 | [Q0.150 - Basic_Level_0_Arrays_8](./Problems/general/q0-150-basic-level-0-arrays-8) | General | `Medium` | java | [View](./Problems/general/q0-150-basic-level-0-arrays-8) |
 | 2026-09-23 | [Q0.149 - Basic_Level_0_Arrays_7](./Problems/general/q0-149-basic-level-0-arrays-7) | General | `Medium` | java | [View](./Problems/general/q0-149-basic-level-0-arrays-7) |
-| 2026-09-21 | [Q0.148 - Basic_Level_0_Arrays_6](./Problems/general/q0-148-basic-level-0-arrays-6) | General | `Medium` | java | [View](./Problems/general/q0-148-basic-level-0-arrays-6) |
 
 ## 📂 Problem Index by Topic
 
 <details>
-<summary><b>📁 General (22 Problems)</b></summary>
+<summary><b>📁 General (23 Problems)</b></summary>
 
+- [Q0.20 - Basic_level_0_Datatypes_20](./Problems/general/q0-20-basic-level-0-datatypes-20) — `Medium`
 - [Q0.16 - Basic_level_0_Datatypes_16](./Problems/general/q0-16-basic-level-0-datatypes-16) — `Medium`
 - [Q0.212 - Basic_Level_0_Arrays_11](./Problems/general/q0-212-basic-level-0-arrays-11) — `Medium`
 - [Q0.15 - Basic_level_0_Datatypes_15](./Problems/general/q0-15-basic-level-0-datatypes-15) — `Medium`
